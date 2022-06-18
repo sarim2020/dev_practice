@@ -1,1 +1,2 @@
 This is file1.txt
+this is edit from window cmd
