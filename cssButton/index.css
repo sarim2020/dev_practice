@@ -1,0 +1,11 @@
+button:after {
+  content: attr(data-cart);
+  background-color: red;
+  padding: 5px;
+  border-radius: 50%;
+  font-size: 12px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translateX(50%) translateY(50%);
+}
