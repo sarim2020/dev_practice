@@ -1,5 +1,0 @@
-this is new file4.txt
-this line is added in gitHub repository.
-this line is added using notepad.
-this line is added at 10:49 on 01-Jul-2022.
-this line is added at 11:05 on 01-Jul-2022 commit locally.
